@@ -1,3 +1,5 @@
+# Diabetes Classification
+
 In this notebook, I used 2 classifier model to classify diabetes. The dataset was obtained from [kaggle](https://www.kaggle.com/uciml/pima-indians-diabetes-database).
 
 
